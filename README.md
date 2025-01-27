@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for your GitHub repository, based on the technologies you're using:
-
----
-
 #  Golden Car - Car Rental Website
 
 A modern and user-friendly car rental website built with **Next.js**, **Tailwind CSS**, and **Daisy UI**. The website provides an easy-to-use platform for customers to browse, rent, and explore a variety of vehicles.
